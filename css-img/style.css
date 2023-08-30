@@ -57,6 +57,7 @@ a {
 .esqueci {
   display: block;
   float: right;
+  padding-top: .1875rem;
 }
 .lembre {
   display: inline-block;
